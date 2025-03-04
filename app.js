@@ -1,4 +1,5 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
+
 // Declarar un array para almacenar los nombres de los amigos
 let amigos = [];
 
@@ -10,14 +11,13 @@ function agregarAmigo() {
     // Validar que el campo no esté vacío
     if (nombre === "") {
         alert("Por favor, inserte un nombre.");
-        return; // Detener la ejecución si el campo está vacío
+        return;
+    } else {
+        // Agregar el nombre al array
+        amigos.push(nombre);
+        // Actualizar la lista en la interfaz
+        actualizarLista();
     }
-
-    // Agregar el nombre al array
-    amigos.push(nombre);
-
-    // Actualizar la lista en la interfaz
-    actualizarLista();
 
     // Limpiar el campo de entrada
     inputAmigo.value = "";

@@ -19,13 +19,13 @@ Este proyecto es una aplicación web sencilla que permite al usuario agregar nom
 
 ## Funcionalidades
 
-- Agregar nombres a la lista de amigos.
+- **Agregar nombres**: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
-- Mostrar la lista actualizada en pantalla.
+- **Validar entrada**: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
-- Sortear un amigo aleatoriamente.
+- **Visualizar la lista**: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
-- Validaciones para evitar entradas vacías y sorteos sin nombres en la lista.
+- **Sorteo aleatorio**: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 
 ## Imagenes del proyecto
