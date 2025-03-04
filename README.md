@@ -29,9 +29,9 @@ Este proyecto es una aplicación web sencilla que permite al usuario agregar nom
 
 
 ## Imagenes del proyecto
-![Proyecto1](dca4af07-82e5-458d-9575-f829abb2bf46.jpg)
-![Proyecto2](7989c300-6e23-47bf-85fa-b691b51f650e.jpg)
-![Proyecto3](6696ad84-d408-49d2-8069-aa4189218262.jpg)
+![Proyecto1](img/dca4af07-82e5-458d-9575-f829abb2bf46.jpg)
+![Proyecto2](img/7989c300-6e23-47bf-85fa-b691b51f650e.jpg)
+![Proyecto3](img/6696ad84-d408-49d2-8069-aa4189218262.jpg)
 
 ## Acceso rápido
 https://solalcaraz.github.io/Challenge_Amigo_Secreto-ONE/
